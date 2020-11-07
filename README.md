@@ -40,11 +40,14 @@ From a high level, a DDoS attack is like an unexpected traffic jam clogging up t
 <li>git clone https://github.com/r3k4t/pddos.git</li>
 <li>cd pddos  </li>
 
-Example :
+Example : host : 1.1.1.1,Port 80 ,Byte: 100 , Seconds:100
 
 <li>perl pddos.pl 1.1.1.1 80 100 100 </li>
 </ul>
 
 ### Screenshots ###
+
+![Screenshot at 2020-11-07 18-10-34](https://user-images.githubusercontent.com/69615463/98441480-99ee4280-2124-11eb-9f84-09ff8d0d4a1a.png)
+
 
 

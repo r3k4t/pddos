@@ -1,5 +1,5 @@
  
-[![perl](https://img.shields.io/badge/perl-cyan.svg)](https://en.wikipedia.org/wiki/Perl)
+[![perl](https://img.shields.io/badge/Program%20perl-cyan.svg)](https://en.wikipedia.org/wiki/Perl)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)](https://en.wikipedia.org/wiki/Linux/)
 
 <h2>PDDOS(Perl DDOS)</h2>

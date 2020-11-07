@@ -1,4 +1,4 @@
-[![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/pddos/blob/master/LICENSE) 
+[![MIT](https://img.shields.io/packagist/l/doctrine/cyan.svg)](https://github.com/r3k4t/pddos/blob/master/LICENSE) 
 [![perl](https://img.shields.io/badge/perl-cyan.svg)](https://en.wikipedia.org/wiki/Perl)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-cyan.svg)](https://en.wikipedia.org/wiki/Linux/)
 
@@ -40,7 +40,7 @@ From a high level, a DDoS attack is like an unexpected traffic jam clogging up t
 <li>git clone https://github.com/r3k4t/pddos.git</li>
 <li>cd pddos  </li>
 
-Example : host : 1.1.1.1,Port 80 ,Byte: 100 , Seconds:100
+Example : host : 1.1.1.1,Port 80 ,Bytes: 100 , Seconds:100
 
 <li>perl pddos.pl 1.1.1.1 80 100 100 </li>
 </ul>

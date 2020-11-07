@@ -1,5 +1,5 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/pddos/blob/master/LICENSE) 
-![perl](https://img.shields.io/badge/perl-orange.svg)](https://en.wikipedia.org/wiki/Perl)
+[![perl](https://img.shields.io/badge/perl-orange.svg)](https://en.wikipedia.org/wiki/Perl)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-yellowgreen.svg)](https://en.wikipedia.org/wiki/Linux/)
 
 <h2>PDDOS(Perl DDOS)</h2>
